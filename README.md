@@ -4,4 +4,4 @@ This repository contains the code used to produce results in "Genomic selection 
 
 Note that this manuscript is currently under revision, so changes are expected. 
 
-If you find any issues or errors, please do not hesitate to contact us on jbancic@ed.ac.uk and ...
+If you find any issues or errors, please do not hesitate to contact us on nelsonlubanga@gmail.com and jbancic@ed.ac.uk.
