@@ -1,4 +1,4 @@
-# lubanga_TeaBreeding
+# nlubanga_teabreeding
 
 This repository contains the code used to produce results in "Genomic selection strategies to increase genetic gain in tea breeding programs" (Lubanga et al., 2022). The code was run in R 4.0.0 and AlphaSimR 1.0.4.
 
